@@ -18,6 +18,7 @@ section {
 .person {
   padding: 20px;
   border-radius: 10px;
+  box-shadow: 2px 1px 5px 3px hsl(219, 29%, 14%, 0.1);
 }
 .person p {
   opacity: 50%;
